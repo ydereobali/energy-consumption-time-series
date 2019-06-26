@@ -1,7 +1,7 @@
 ########################################################################
 # Title: Time Series Analysis of Energy Metering Data
 # Author: Yigit Dereobali
-# Name: ubiqum module 3 task 2
+# Name: ubiqum module 3 task 2 github
 # Description: 47 months minutely power consumption data of 1 main meter 
 # and 3 submeters is available. It is analysed if submeter data improves
 # the accuracy of monthly consumption prediction.
