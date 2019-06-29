@@ -6,7 +6,7 @@
 # and 3 submeters is available in a SQL Database on AWS. 
 # Data is download data from AWS and processed. 
 # It is analysed if submeter data improves the accuracy of 
-# monthly consumption prediction of Linear and Holt Winter's models.
+# monthly consumption prediction of Linear and Holt Winters models.
 # Date: 29.06.2019
 # Version: 1.2
 ########################################################################
